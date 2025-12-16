@@ -116,7 +116,9 @@ MiniUdemy tiene como finalidad reforzar los conocimientos en desarrollo web full
 ## 👨‍💻 Autor
 
 **Brianna Denisse Medrano Castillo 20130837**
+---
 **Gabriel Gerardo Cerdenas Briones 21130566**
+---
 **Juan Raul Wong Aguilar           21130564**
 
 ---
