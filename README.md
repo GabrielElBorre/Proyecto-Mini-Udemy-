@@ -80,7 +80,7 @@ Base de Datos (MongoDB)
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/miniudemy.git
+git clone https://github.com/GabrielElBorre/Proyecto-Mini-Udemy-.git
 ```
 
 ### 2️⃣ Backend
