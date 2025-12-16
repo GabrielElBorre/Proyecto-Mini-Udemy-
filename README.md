@@ -120,6 +120,7 @@ MiniUdemy tiene como finalidad reforzar los conocimientos en desarrollo web full
 **Gabriel Gerardo Cerdenas Briones 21130566**
 ---
 **Juan Raul Wong Aguilar           21130564**
+---
 
 ---
 
